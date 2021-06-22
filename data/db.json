@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Nibram Cleaning Services",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse neque explicabo iste tempora, rem magnam nobis dolore quo tempore iure necessitatibus veniam culpa dignissimos dicta labore, facere repellat iusto mollitia!",
+      "author": "Nibram"
+    },
+    {
+      "id": 2,
+      "title": "Software Engineering Expert",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse neque explicabo iste tempora, rem magnam nobis dolore quo tempore iure necessitatibus veniam culpa dignissimos dicta labore, facere repellat iusto mollitia!",
+      "author": "Abiodun"
+    },
+    {
+      "id": 3,
+      "title": "Forex & Crypto Expert",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse neque explicabo iste tempora, rem magnam nobis dolore quo tempore iure necessitatibus veniam culpa dignissimos dicta labore, facere repellat iusto mollitia!",
+      "author": "Abiodun"
+    }
+  ]
+}

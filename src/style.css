@@ -1,0 +1,154 @@
+
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+._mainBody{
+    width: 100%;
+    display: flex;
+}
+
+
+
+
+
+
+.image_wrapper{
+     background-color: red;
+     border: 1px solid red;
+    flex: 3;
+     /* background: url('../Form/assets/images/banner.svg');
+     width: 100%; */
+     height: 100vh; 
+}
+
+.image_wrapper img{
+      /* width: 100%;
+     height: 567px !important;
+     overflow: hidden;
+     height: 100vh; */
+} 
+
+.form_wrapper{
+    flex: 3;
+     /* border: 1px solid red; */
+}
+
+.header{
+    text-align: center;
+}
+
+.form_section{
+    width: 60%;
+    margin: auto;
+    /* border: 1px solid red; */
+}
+
+.form_main{
+    margin-top: 2rem;
+}
+
+.form_main label{
+   display: inline-block;
+   outline: none;
+}
+
+.form_main input{
+   display: block;
+   width: 100%;
+   border: 1px solid #5E5E5E;
+   box-sizing: border-box;
+   border-radius: 8px;
+   padding: 16px 24px 16px 16px;
+   outline: none;
+}
+
+input::-webkit-outer-spin-button, input::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type=number]{
+    -moz-appearance: textfield;
+}
+
+small{
+    color: red;
+}
+
+
+Button{
+    height: initial;
+    padding: 16px 24px;
+    width: 100%;
+    margin-top: 2.5rem;
+}
+
+.passwordToggle{
+    display: flex;
+    
+}
+
+.inp{
+    flex: 4;
+}
+
+.pass{
+     /* width: 90% !important; */
+    border-right: none !important;
+    outline: none;
+    border-bottom-right-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+}
+
+.eye{
+    flex: 2;
+    outline: none !important;
+}
+
+.eye button{
+    /* width: 5%; */
+    padding: 15.5px 0px;
+    padding-left: 20px;
+    margin-top: 0px;
+    background-color: white;
+    border: 1px solid #5E5E5E;
+    border-left: none;
+    border-radius: 8px;
+    border-bottom-left-radius: 0px;
+    border-top-left-radius: 0px;
+}
+
+
+fieldset{
+    border: 1px solid #000000;
+    text-align: center;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+}
+
+
+legend{
+  width: 100px;
+  padding: 0 0rem;
+}
+
+.icons{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.icons img{
+    margin: auto;
+    border: 1px solid #E0E0E0;
+    padding: 20px 41px 20px 41px;
+    border-radius: 15px;
+}
+    
+
